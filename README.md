@@ -4,7 +4,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas. Sinta-se à vontade para 
 
 **Conecte-se comigo:**
 <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-goes-271abb296/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-goes-271abb296/)
 
 ---
 
