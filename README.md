@@ -10,7 +10,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas. Sinta-se à vontade para 
 ### 🛠️ Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,bootstrap,java,c,python,git,c++,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,bootstrap,java,c,python,git,prisma,postman" />
 </div>
 
 ---
